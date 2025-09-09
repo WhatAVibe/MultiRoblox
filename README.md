@@ -8,13 +8,14 @@ MultiRoblox is a mini project developed by @WhatAVibe (Discord) for automating R
 ### Requirements
 To run the script, you'll need the following files:
 * `Multi.exe` (written in AutoHotkey)
+* `cfg.ahk` (written in AutoHotkey)
 * `log.exe` (written in Python)
 
 You can remove the `log.exe` file if you don't want to display the log window. The script will still function without it.
 
 ### Features
 * F1 to run the script and have it loop through the open Roblox windows with the name "Roblox" or "Roblox Game Client"
-* File `cfg.ahk` is what will be executed on each window before switching to the next one
+* File `cfg.ahk` is what will be executed on each window before switching to the next one, edit to your liking
 * Repeat scripts in the `extra.ahk` file by pressing F3 or using the Mouse3/Forward button.
 * Close the script and log.exe by pressing F2.
 * Reload the script entirely by pressing F5.
