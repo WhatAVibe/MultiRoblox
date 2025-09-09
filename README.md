@@ -13,14 +13,14 @@ To run the script, you'll need the following files:
 You can remove the `log.exe` file if you don't want to display the log window. The script will still function without it.
 
 ### Features
-* Cycle between open Roblox windows with the name "Roblox" or "Roblox Game Client" by pressing F1.
-* Cycle between scripts in the `cfg.ahk` file using the hotkey F1.
+* F1 to run the script and have it loop through the open Roblox windows with the name "Roblox" or "Roblox Game Client"
+* File `cfg.ahk` is what will be executed on each window before switching to the next one
 * Repeat scripts in the `extra.ahk` file by pressing F3 or using the Mouse3/Forward button.
-* Reload the script entirely by pressing F5.
 * Close the script and log.exe by pressing F2.
+* Reload the script entirely by pressing F5.
 
 ### Notes
-* Your antivirus may flag the files as potential viruses due to their behavior, but this is known as a false positive.
+* Your antivirus "may" flag the files as potential viruses due to their behavior, but this is known as a false positive. 
 * The log file is larger than the actual script due to compiling extra libraries, allowing users to run the script without installing additional software.
 
 ### Support
