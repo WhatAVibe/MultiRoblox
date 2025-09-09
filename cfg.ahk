@@ -1,0 +1,10 @@
+;send, t
+;sleep, 3500
+;send, y
+;sleep, 2500
+;send, 2
+;sleep, 2500
+;send, 4
+;sleep, 2500
+send, h
+sleep, 2500
